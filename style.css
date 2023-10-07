@@ -28,9 +28,9 @@ body {
     display: inline-block;
     padding: 10px 20px;
     border: none;
-    background: rgb(248, 168, 24);
+    background: rgb(121, 87, 24);
     border-radius: 10px;
-    color: #fff;
+    color: rgb(105, 105, 63);
     text-transform: uppercase;
     font-weight: 700;
     transition: background .2s linear;
