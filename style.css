@@ -6,6 +6,12 @@ body {
     background: var(--tg-theme-bg-color);
 }
 
+.header {
+    background-color: #cabdbd;
+    padding: 30px;
+    text-align: center;
+}
+
 .container {
     max-width: 390px;
 }
@@ -17,7 +23,7 @@ body {
 }
 
 .img {
-    width: 150px;
+    width: 50px;
 }
 
 .item {
