@@ -9,7 +9,7 @@ body {
 .podmain {
       background-color:var(--tg-theme-bg-color);
       text-align: center;
-      padding: 100px;
+      padding-inline-end: 30px;
 }
 
 .header {
@@ -53,6 +53,7 @@ body {
   }
 
 .inner {
+    padding-block-start: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 200px 200px;
