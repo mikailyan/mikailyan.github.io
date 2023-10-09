@@ -24,7 +24,7 @@ body {
 
 #navbar {
     overflow: hidden;
-    background-color: var(--tg-theme-bg-color);
+    background-color: #cabdbd;
   }
 
   .sticky {
