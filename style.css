@@ -7,9 +7,9 @@ body {
 }
 
 .podmain {
-      background-color:rgb(250, 215, 215);
+      background-color:var(--tg-theme-bg-color);
       text-align: center;
-      padding: 30px;
+      padding: 100px;
 }
 
 .header {
@@ -24,7 +24,7 @@ body {
 
 #navbar {
     overflow: hidden;
-    background-color: #cabdbd;
+    background-color: #c0bcbc;
   }
 
   .sticky {
