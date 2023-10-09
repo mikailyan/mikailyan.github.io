@@ -24,7 +24,8 @@ body {
 
 #navbar {
     overflow: hidden;
-    background-color: #c0bcbc;
+    background-color: #ebe8e8;
+    padding-bottom: 20px;
   }
 
   .sticky {
@@ -57,6 +58,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 200px 200px;
+    padding-bottom: 20px;
 }
 
 .img {
