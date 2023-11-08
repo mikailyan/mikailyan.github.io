@@ -188,6 +188,9 @@
 	<div class="cafe-item-shadow"></div>
 	<div class="cafe-item-shadow"></div>
 </section>
+	<div class="cafe-status-wrap">
+	    <div class="cafe-status js-status"></div>
+        </div>
         <div class="usercard" id="usercard"></div>
         <script src="https://telegram.org/js/telegram-web-app.js"></script>
         <script src="app.js"></script>
