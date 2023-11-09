@@ -10,7 +10,7 @@
 	<meta name="MobileOptimized" content="176"/>
 	<meta name="HandheldFriendly" content="True"/>
 	<meta name="robots" content="noindex, nofollow"/>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="./css/style.css">
         <title> Shop</title>
     </head>
 <body>
